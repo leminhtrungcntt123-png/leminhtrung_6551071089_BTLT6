@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\buoi5\\bai5.6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5999B7A0-194A-599A-E359-B8166C8A0CF1}|QuanLyGhiChu.csproj|c:\\c#\\buoi5\\bai5.6\\formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5999B7A0-194A-599A-E359-B8166C8A0CF1}|QuanLyGhiChu.csproj|solutionrelative:formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B4AA87-E952-413E-B020-741A79FD4B8A}|QuanLyGhiChu.csproj|C:\\C#\\buoi5\\bai5.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86B4AA87-E952-413E-B020-741A79FD4B8A}|QuanLyGhiChu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5999B7A0-194A-599A-E359-B8166C8A0CF1}|QuanLyGhiChu.csproj|c:\\c#\\buoi5\\bai5.6\\formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5999B7A0-194A-599A-E359-B8166C8A0CF1}|QuanLyGhiChu.csproj|solutionrelative:formghichu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5999B7A0-194A-599A-E359-B8166C8A0CF1}|QuanLyGhiChu.csproj|c:\\c#\\buoi5\\bai5.6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5999B7A0-194A-599A-E359-B8166C8A0CF1}|QuanLyGhiChu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGhiChu.cs",
+              "DocumentMoniker": "C:\\C#\\buoi5\\bai5.6\\FormGhiChu.cs",
+              "RelativeDocumentMoniker": "FormGhiChu.cs",
+              "ToolTip": "C:\\C#\\buoi5\\bai5.6\\FormGhiChu.cs",
+              "RelativeToolTip": "FormGhiChu.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAArwG0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:20:11.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\C#\\buoi5\\bai5.6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\C#\\buoi5\\bai5.6\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwCAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:54:34.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGhiChu.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\buoi5\\bai5.6\\FormGhiChu.cs",
+              "RelativeDocumentMoniker": "FormGhiChu.cs",
+              "ToolTip": "C:\\C#\\buoi5\\bai5.6\\FormGhiChu.cs [Design]",
+              "RelativeToolTip": "FormGhiChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:48:39.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\buoi5\\bai5.6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Lap_Trinh_Truc_Quan\\Bai_Tap\\BTLTB5\\QuanLyGhiChu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T00:40:20.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
